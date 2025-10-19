@@ -72,8 +72,9 @@ Fotos de la Evolución del Proyecto
 
 
 
+## 🎥 Mira el video
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/MW2d4Th6UJM?si=7gc1NAEMcmXFtAxD"></iframe>
+[![Ver en YouTube](https://img.youtube.com/vi/MW2d4Th6UJM/0.jpg)](https://www.youtube.com/watch?v=MW2d4Th6UJM)
 
   
 
