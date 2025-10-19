@@ -72,6 +72,8 @@ Fotos de la Evolución del Proyecto
 
 
 
-- Amplificador de clase D 1500 W con altavoz Pioneer de 4 Ω  y 1200 W 
+[![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtube.com/shorts/MW2d4Th6UJM?si=7gc1NAEMcmXFtAxD))
+
+
   
 
