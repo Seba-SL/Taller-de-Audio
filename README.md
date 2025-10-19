@@ -26,7 +26,7 @@ Proyectos
 
 3. Testeo
 
-    Osciloscopio: Úsalo para visualizar la señal de salida y verificar distorsiones.
+    Osciloscopio: Úsado para visualizar la señal de salida y verificar distorsiones.
 
     Analizador de Espectro: Para observar la respuesta de frecuencia y la distorsión.
 
@@ -40,7 +40,6 @@ Proyectos
 6. Iteración y Mejora
 
     Ajustar y redefinir el diseño según los resultados de las pruebas.
-    
 
 7. Estabilidad y Calentamiento
 
@@ -58,6 +57,16 @@ Equivalente del integrado
 
 ![Captura desde 2024-10-03 15-06-27](https://github.com/user-attachments/assets/e3f8a2ad-1cbb-45d7-969c-0c3b64c64c54)
 
+## 🎥 Video de pruebas de sonido de la placa 1
+
+[![Ver en YouTube](https://img.youtube.com/vi/MW2d4Th6UJM/0.jpg)](https://www.youtube.com/watch?v=MW2d4Th6UJM)
+
+
+## 🎥 Video de pruebas de sonido de la placa 2
+
+[![Ver en YouTube](https://img.youtube.com/vi/mHocjnlUr8g/0.jpg)](https://www.youtube.com/watch?v=mHocjnlUr8g)
+
+
 Fotos de la Evolución del Proyecto
 
 ![imagen](https://github.com/user-attachments/assets/303c4e54-dcf5-4221-a89d-82b24a83d282)
@@ -72,9 +81,6 @@ Fotos de la Evolución del Proyecto
 
 
 
-## 🎥 Mira el video
-
-[![Ver en YouTube](https://img.youtube.com/vi/MW2d4Th6UJM/0.jpg)](https://www.youtube.com/watch?v=MW2d4Th6UJM)
 
   
 
